@@ -10,7 +10,7 @@
 }
 
 .banner{
-    background: url("../images/banner/banner1.png");
+    background: url("banner1.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -200,7 +200,7 @@
 }
 
 .ad-banner-container{
-    background: url("../images/gradient2.png"),url("../images/watch.png");
+    background: url("gradient2.png"),url("watch.png");
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 1140px;
